@@ -27,6 +27,3 @@ Copy code
 
 This will read the data from the `data.xlsx` Excel file and calculate the commission, contract amount, and other values for each row in the file using the `calculate_commission` function defined in the `first_file.py` file. The calculated values will be printed to the console.
 
-## Special Appreciation
-
-This code was helped build by ChatGPT. Thank you developers.
